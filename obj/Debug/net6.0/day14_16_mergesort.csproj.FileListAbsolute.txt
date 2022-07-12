@@ -1,0 +1,15 @@
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\day14_16_mergesort\day14_16_mergesort\bin\Debug\net6.0\day14_16_mergesort.exe
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\day14_16_mergesort\day14_16_mergesort\bin\Debug\net6.0\day14_16_mergesort.deps.json
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\day14_16_mergesort\day14_16_mergesort\bin\Debug\net6.0\day14_16_mergesort.runtimeconfig.json
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\day14_16_mergesort\day14_16_mergesort\bin\Debug\net6.0\day14_16_mergesort.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\day14_16_mergesort\day14_16_mergesort\bin\Debug\net6.0\day14_16_mergesort.pdb
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\day14_16_mergesort\day14_16_mergesort\obj\Debug\net6.0\day14_16_mergesort.csproj.AssemblyReference.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\day14_16_mergesort\day14_16_mergesort\obj\Debug\net6.0\day14_16_mergesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\day14_16_mergesort\day14_16_mergesort\obj\Debug\net6.0\day14_16_mergesort.AssemblyInfoInputs.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\day14_16_mergesort\day14_16_mergesort\obj\Debug\net6.0\day14_16_mergesort.AssemblyInfo.cs
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\day14_16_mergesort\day14_16_mergesort\obj\Debug\net6.0\day14_16_mergesort.csproj.CoreCompileInputs.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\day14_16_mergesort\day14_16_mergesort\obj\Debug\net6.0\day14_16_mergesort.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\day14_16_mergesort\day14_16_mergesort\obj\Debug\net6.0\refint\day14_16_mergesort.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\day14_16_mergesort\day14_16_mergesort\obj\Debug\net6.0\day14_16_mergesort.pdb
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\day14_16_mergesort\day14_16_mergesort\obj\Debug\net6.0\day14_16_mergesort.genruntimeconfig.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\day14_16_mergesort\day14_16_mergesort\obj\Debug\net6.0\ref\day14_16_mergesort.dll
